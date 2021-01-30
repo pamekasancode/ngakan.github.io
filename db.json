@@ -1,0 +1,75 @@
+{
+  "data": 
+  [
+    {
+      "name": "S-Pizza",
+      "desc": "Makanan khas Italia",
+      "price": 75000,
+      "rate": 8,
+      "photo": "https://i.ibb.co/dfb08GF/unnamed.png"
+    },
+    {
+      "name": "Mini Burger",
+      "desc": "Makanan khas Jerman",
+      "price": 9000,
+      "rate": 8,
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVcevbVeh3_pg_pNt77orvBPp0bHcdkNWrrA&usqp=CAU"
+    },
+    {
+      "name": "L-Pizza",
+      "desc": "Makanan khas Italia",
+      "price": 125000,
+      "rate": 9,
+      "photo": "https://i.ibb.co/dfb08GF/unnamed.png"
+    },
+    {
+      "name": "Big Burger",
+      "desc": "Makanan khas Jerman",
+      "price": 15000,
+      "rate": 9,
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVcevbVeh3_pg_pNt77orvBPp0bHcdkNWrrA&usqp=CAU"
+    },
+    {
+      "name": "Spagethi",
+      "desc": "Makanan khas Italia",
+      "price": 13000,
+      "rate": 8,
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6t9RasPa_FXmgkR-pQRxqqatFT_Ktz-K3QQ&usqp=CAU"
+    },
+    {
+      "name": "Extra Fried Chicken",
+      "desc": "Ayam tepung porsi Extra",
+      "price": 115000,
+      "rate": 8,
+      "photo": "https://1.bp.blogspot.com/-2Q7hEe80bl0/VwWRLfs1HuI/AAAAAAAAClU/hUTQCBE8zro6yskNHEn9J8jm8fhqcMqzA/s1600/popeyeschicken.png"
+    },
+    {
+      "name": "Bakso Mie",
+      "desc": "Bakso dicampur dengan mie",
+      "price": 15000,
+      "rate": 8,
+      "photo": "https://i.ibb.co/wcf162d/IMG-20210131-060349.jpg"
+    },
+    {
+      "name": "Nasi Goreng",
+      "desc": "Nasi goreng khas Jawa",
+      "price": 10000,
+      "rate": 9,
+      "photo": "https://i.ibb.co/qrSyYHq/IMG-20210131-060613.jpg"
+    },
+    {
+      "name": "Tempe Penyet",
+      "desc": "Tempe yang disajikan dengan sambal pedas",
+      "price": 8000,
+      "rate": 7,
+      "photo": "https://www.waroengss.com/filemanager/image/products/550/1549704384_5c5e9cc0c6a49.png"
+    },
+    {
+      "name": "Tahu Gejrot",
+      "desc": "Tahu dengan sambal cabe yang extra pedas",
+      "price": 7000,
+      "rate": 7,
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQecne8xGYc0Dt5OrpIL35u3sBVjFaRS7d3og&usqp=CAU"
+    }
+  ]
+}

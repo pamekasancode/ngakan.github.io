@@ -1,0 +1,183 @@
+.navbar {
+  background-color: #fff;
+  position: fixed;
+  width: 100%;
+  z-index: 999;
+  top: 0;
+}
+
+.navbar.active {
+  box-shadow: 2px 2px 7px #ddd;
+}
+
+.navbar .nav-link a {
+  text-decoration: none;
+  color: #888;
+}
+
+.navbar .navbar-brand img {
+  width: 125px;
+}
+
+.navbar .navbar-toggler {
+  border: none;
+}
+
+.navbar .navbar-toggler i {
+  color: #00E6A0;
+  font-size: 25px;
+}
+
+.navbar button:hover,
+.navbar button:focus {
+  box-shadow: none !important;
+  border: none !important;
+  outline: none !important;
+}
+
+.search {
+  height: 60px;
+  margin-top: 70px;
+}
+
+.search input {
+  width: 100%;
+  padding: 10px;
+  height: 40px;
+  outline: none;
+  border-radius: 10px;
+  background-color: #f8f8f8;
+  border: none;
+  transition: .3s;
+}
+
+.search input:hover {
+  transform: scale(1.03);
+}
+
+.home h4 {
+  font-weight: bold;
+  padding: 10px;
+  font-size: 18px;
+}
+
+.home {
+  
+}
+
+.home .row {
+  padding: 5px;
+}
+
+.home .food {
+  box-shadow: 1px 3px 7px #e8e8e8;
+  border: 1px solid #eee;
+  border-radius: 10px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.home .food .photo {
+  width: 100%;
+  padding: 10px;
+}
+
+.home .food .name {
+  font-size: 18px;
+  font-weight: bold;
+  padding-top: 10px;
+}
+
+.home .food .description {
+  font-size: 13px;
+  color: #888;
+  margin-top: -10px;
+}
+
+.home .food .price {
+  font-weight: bold;
+  color: #00E6A0;
+  padding: 10px;
+  margin-top: -20px;
+}
+
+.menu {
+  padding: 10px;
+}
+
+.menu h4 {
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 30px;
+}
+
+.menu .food {
+  margin-bottom: 50px;
+}
+
+.menu .food .photo {
+  width: 35%;
+  float: left;
+  margin-right: 20px;
+}
+
+.menu .food .info-menu .name {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.menu .food .info-menu .description {
+  font-size: 13px;
+  color: #888;
+  margin-top: -7px;
+  line-height: 15px;
+}
+
+.menu .food .info-menu .rate {
+  margin-top: -15px;
+}
+
+.menu .food .info-menu .price {
+  color: #00E6A0;
+  margin-top: -10px;
+}
+
+.about {
+  margin-top: 80px;
+  padding: 20px;
+}
+
+.about h4 {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.about p {
+  color: #888;
+}
+
+.notfound {
+  position: absolute;
+  width: 100%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  padding: 20px;
+}
+
+.notfound img {
+  width: 300px;
+  margin-bottom: 20px;
+}
+
+.notfound h3 {
+  font-size: 18px;
+  color: #888;
+}
+
+@media (max-width: 600px) {
+  .navbar-nav {
+    padding-left: 20px;
+  }
+}

@@ -7,3 +7,6 @@ Ngakan adalah website mini project menu makanan pada restoran ataupun di Cafe
 Website ini dibangun menggunakan:
 - Bootstrap 
 - Vue
+
+Link Demo:
+https://pamekasancode.github.io/ngakan.github.io
